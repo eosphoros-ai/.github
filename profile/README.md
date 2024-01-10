@@ -1,8 +1,22 @@
 ### Hi, this is eosphoros-ai 👋
 
+<div align="left">
+  <p>
+    <a href="https://discord.gg/7uQnPuveTY">
+      <img alt="Discord" src="https://dcbadge.vercel.app/api/server/7uQnPuveTY?compact=true&style=flat" />
+    </a>
+    <a href="https://join.slack.com/t/slack-inu2564/shared_invite/zt-29rcnyw2b-N~ubOD9kFc7b7MDOAM1otA">
+      <img alt="Slack" src="https://badgen.net/badge/Slack/Join%20DB-GPT/0abd59?icon=slack" />
+    </a>
+    <a href="https://github.com/eosphoros-ai">
+        <img alt="stars" src="https://img.shields.io/github/stars/eosphoros-ai?style=social" />
+    </a>
+  </p>
+</div>
 <p align="left">
   <img src="https://github.com/eosphoros-ai/DB-GPT/blob/main/assets/LOGO.png" width="100%" />
 </p>
+
 
 We are a team of technology enthusiasts from internet companies and NLP graduate students who are passionate about open source projects. Our focus is on developing solutions that protect the privacy and security of databases and large language models. Our aim is to ensure that the abilities of these models remain absolutely private, secure, and under control. With our solutions, we guarantee that your data is 100% secure and free from the risk of any data breaches.
 
