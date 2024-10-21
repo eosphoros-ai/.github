@@ -18,9 +18,17 @@
 </p>
 
 
-We are a team of technology enthusiasts from internet companies and NLP graduate students who are passionate about open source projects. Our focus is on developing solutions that protect the privacy and security of databases and large language models. Our aim is to ensure that the abilities of these models remain absolutely private, secure, and under control. With our solutions, we guarantee that your data is 100% secure and free from the risk of any data breaches.
+We are a team of technology enthusiasts from AntGroup、JD、internet companies and NLP graduate students who are passionate about open source projects. Our aim is to building Open AI-Native Data Infrastructure
 
 As we move towards an era of large models, we have personally witnessed the power of open source technology. We strongly believe that many technologies, including the abilities of large models, LLMOps-related frameworks, Text2SQL accuracy, etc., will become the infrastructure of the new era. Through our open source organization, we strive to contribute to the development of this new era.
+
+We have the following open-source projects:
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
+- [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance in Text-to-SQL
+- [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more.
+- [GPT-Vis](https://github.com/eosphoros-ai/GPT-Vis) GPT Vision, Open Source Vision components for GPTs, generative AI, and LLM projects. Not only UI Components.
+- [vsag](https://github.com/alipay/vsag) vsag is a vector indexing library used for similarity search.
+
 
 ### Developers
 The source code for DB-GPT lives in the [main repository](https://github.com/eosphoros-ai/DB-GPT).
